@@ -9,11 +9,11 @@ SSD1306Wire display(0x3c, SDA_PIN, SCL_PIN);
 
 // Simulerad logg
 String events[] = {
-  "Zelda IN",
-  "Zelda UT",
+  "Chilli IN",
+  "Chilli UT",
   "Herkules IN",
-  "Zelda IN",
-  "Zelda UT",
+  "Chilli IN",
+  "Chilli UT",
   "Herkules UT"
 };
 
